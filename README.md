@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Srijan Sundaram</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A first year B.Tech Student from Maharashtra</h3>
 
 - 📫 How to reach me **srijansundram@gmail.com**
 
