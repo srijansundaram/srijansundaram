@@ -5,7 +5,7 @@
 
 <!-- Banner -->
 <p align="center">
-  <img src="https://i.ibb.co/2sKXqVd/solar-banner.gif" alt="solar banner" width="800"/>
+  <img src="banner.png" alt="Srijan Sundaram Banner" width="800"/>
 </p>
 
 ---
