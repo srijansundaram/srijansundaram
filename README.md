@@ -1,15 +1,82 @@
-<h1 align="center">Hi 👋, I'm Srijan Sundaram</h1>
-<h3 align="center">A passionate developer from India</h3>
+# Hi 👋, I'm Srijan Sundaram  
+*A passionate developer from India 🇮🇳*
 
-- 📫 How to reach me **srijansundram@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
+### 👨‍💻 About Me
+- 🎓 Computer Science student passionate about building impactful digital systems  
+- 🚀 Currently working on: **Solar Rooftop Assessment Project (Python + JS + API Integration)**  
+- 💡 Exploring: D3.js, Cytoscape.js, and scalable backend architectures  
+- 🎯 Goal: To create seamless user experiences through innovation and clean code  
+
+---
+
+### 🧰 Languages and Tools
 <p align="left">
-<a href="https://linkedin.com/in/srijan-sundaram-b27896288/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="srijansundaram" height="30" width="40" /></a>
-<a href="https://instagram.com/srijansundaram" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="srijansundaram" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/srijansundram" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@srijansundram" height="30" width="40" /></a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
+### 🔗 Featured Project
+#### 🌞 [**Solar Rooftop Assessment**](https://github.com/srijansundaram/solar-rooftop-assessment)
+> A data-driven application that assesses solar rooftop potential using Python and JavaScript.  
+> **Tech Stack:** Python, JavaScript, HTML, CSS, APIs  
+> **Features:**  
+> ☀️ Calculates rooftop solar potential dynamically  
+> 🌐 Uses geolocation and solar radiation datasets  
+> 📈 Visualizes efficiency and energy output  
+> 💾 Provides cost-benefit insights for Indian users  
+
+---
+
+### 🧱 Other Pinned Projects
+| Project | Description | Tech |
+|----------|--------------|------|
+| [FlowCompiler](https://github.com/srijansundaram/FlowCompiler) | Compiler simulation for flow control and optimization | Python |
+| [Journey Express (Railway System)](https://github.com/srijansundaram/Journey-Express-Railway-Reservation-System-using-J2EE-) | Full-fledged railway booking system with JSP & JDBC | Java (J2EE) |
+| [Mapty - Geolocation API Website](https://github.com/srijansundaram/Mapty-Geolocation-API-Website-using-JS-) | Tracks workouts using map-based visualization | JavaScript |
+| [Social Media Friend Recommendation System](https://github.com/srijansundaram/friend-recommendation-system) | Visualizes social networks and suggests new connections | JSP, Servlets, MySQL |
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=srijansundaram&show_icons=true&theme=radical" alt="GitHub Stats" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srijansundaram&layout=compact&theme=radical" alt="Top Languages" height="160"/>
+</p>
+
+---
+
+### 🤝 Connect with Me
+<p align="center">
+  <a href="https://linkedin.com/in/srijan-sundaram-b27896288" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge"/>
+  </a>
+  <a href="https://instagram.com/srijansundaram" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge"/>
+  </a>
+  <a href="mailto:srijansundaram@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge"/>
+  </a>
+  <a href="https://hashnode.com/@srijansundaram" target="_blank">
+    <img src="https://img.shields.io/badge/Hashnode-2962FF?logo=hashnode&logoColor=white&style=for-the-badge"/>
+  </a>
+</p>
+
+---
+
+### 💬 Fun Quote
+> “Code is like humor. When you have to explain it, it’s bad.” – Cory House  
+
+⭐️ *Thanks for visiting my profile! Feel free to connect or explore my projects.* 🚀
