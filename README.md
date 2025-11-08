@@ -12,7 +12,7 @@
 
 ### 👨‍💻 About Me
 - 🎓 Computer Science student passionate about building impactful digital systems  
-- 🚀 Currently working on: **Solar Rooftop Assessment Project (Python + JS + API Integration)**  
+- 🚀 Currently working on: **Flow Compiler Project (Python)**  
 - 💡 Exploring: D3.js, Cytoscape.js, and scalable backend architectures  
 - 🎯 Goal: To create seamless user experiences through innovation and clean code  
 
