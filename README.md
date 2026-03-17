@@ -36,24 +36,25 @@
 ---
 
 ### 🔗 Featured Project
-#### 🌞 [**Solar Rooftop Assessment**](https://github.com/srijansundaram/solar-rooftop-assessment)
-> A data-driven application that assesses solar rooftop potential using Python and JavaScript.  
-> **Tech Stack:** Python, JavaScript, HTML, CSS, APIs  
+#### 🛡️ [**DeepShield — Deepfake Detection System**](https://github.com/srijansundaram/DeepShield)
+> An AI-powered multimedia forensics platform to detect deepfake images and videos using ensemble deep learning and forensic signal analysis.  
+> **Tech Stack:** Python, PyTorch, Streamlit, OpenCV  
 > **Features:**  
-> ☀️ Calculates rooftop solar potential dynamically  
-> 🌐 Uses geolocation and solar radiation datasets  
-> 📈 Visualizes efficiency and energy output  
-> 💾 Provides cost-benefit insights for Indian users  
+> 🤖 Ensemble CNN detection (XceptionNet + EfficientNet)  
+> 🔍 Grad-CAM explainability visualization  
+> 🎥 Image, Video, Webcam & Batch analysis modes  
+> 📊 Frequency, compression & metadata forensic analysis  
+> 📄 Automated PDF forensic reporting  
 
 ---
 
 ### 🧱 Other Pinned Projects
 | Project | Description | Tech |
 |----------|--------------|------|
-| [FlowCompiler](https://github.com/srijansundaram/FlowCompiler) | Compiler simulation for flow control and optimization | Python |
-| [Journey Express (Railway System)](https://github.com/srijansundaram/Journey-Express-Railway-Reservation-System-using-J2EE-) | Full-fledged railway booking system with JSP & JDBC | Java (J2EE) |
-| [Mapty - Geolocation API Website](https://github.com/srijansundaram/Mapty-Geolocation-API-Website-using-JS-) | Tracks workouts using map-based visualization | JavaScript |
-| [Social Media Friend Recommendation System](https://github.com/srijansundaram/friend-recommendation-system) | Visualizes social networks and suggests new connections | JSP, Servlets, MySQL |
+| 🌞 [Solar Rooftop Assessment](https://github.com/srijansundaram/solar-rooftop-assessment) | Evaluates rooftop solar potential with geospatial and radiation data | Python, JS |
+| 🧠 [ChronOS CPU Scheduling Simulator](https://github.com/srijansundaram/ChronOS) | Interactive simulator visualizing FCFS, SJF, Priority & Round Robin algorithms | JavaScript, D3.js |
+| 🧩 [FlowCompiler](https://github.com/srijansundaram/FlowCompiler) | Compiler simulation for flow control optimization | Python |
+| 🚆 [Journey Express Railway System](https://github.com/srijansundaram/Journey-Express-Railway-Reservation-System-using-J2EE-) | Railway reservation platform using JSP, Servlets & JDBC | Java (J2EE) |
 
 ---
 
