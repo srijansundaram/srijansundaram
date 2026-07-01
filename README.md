@@ -39,7 +39,7 @@
 
 #### 🛡️ [**DeepShield — AI Deepfake Detection & Multimedia Forensics**](https://github.com/srijansundaram/DeepShield)
 
-> A production-grade AI-powered multimedia forensics platform for detecting GAN-generated, diffusion-generated, and face-swap deepfakes using a calibrated ensemble of deep learning models and advanced forensic signal analysis. :contentReference[oaicite:0]{index=0}
+> A production-grade AI-powered multimedia forensics platform for detecting GAN-generated, diffusion-generated, and face-swap deepfakes using a calibrated ensemble of deep learning models and advanced forensic signal analysis. 
 
 > **Tech Stack:** Python • PyTorch • Streamlit • FastAPI • OpenCV • InsightFace
 
