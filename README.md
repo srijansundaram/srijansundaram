@@ -36,15 +36,20 @@
 ---
 
 ### 🔗 Featured Project
-#### 🛡️ [**DeepShield — Deepfake Detection System**](https://github.com/srijansundaram/DeepShield)
-> An AI-powered multimedia forensics platform to detect deepfake images and videos using ensemble deep learning and forensic signal analysis.  
-> **Tech Stack:** Python, PyTorch, Streamlit, OpenCV  
-> **Features:**  
-> 🤖 Ensemble CNN detection (XceptionNet + EfficientNet)  
-> 🔍 Grad-CAM explainability visualization  
-> 🎥 Image, Video, Webcam & Batch analysis modes  
-> 📊 Frequency, compression & metadata forensic analysis  
-> 📄 Automated PDF forensic reporting  
+
+#### 🛡️ [**DeepShield — AI Deepfake Detection & Multimedia Forensics**](https://github.com/srijansundaram/DeepShield)
+
+> A production-grade AI-powered multimedia forensics platform for detecting GAN-generated, diffusion-generated, and face-swap deepfakes using a calibrated ensemble of deep learning models and advanced forensic signal analysis. :contentReference[oaicite:0]{index=0}
+
+> **Tech Stack:** Python • PyTorch • Streamlit • FastAPI • OpenCV • InsightFace
+
+> **Highlights:**
+> - 🤖 Three-model ensemble (XceptionNet + EfficientNet-B4 + Vision Transformer)
+> - 🎥 Image, Video, Webcam, URL & Batch deepfake analysis
+> - 🔍 Grad-CAM explainability with forensic signal contribution dashboard
+> - 🧠 Audio-visual lip-sync detection & face identity consistency tracking
+> - 📊 FFT, EXIF metadata, compression & social-media recompression forensics
+> - 🌐 REST API with FastAPI and automated PDF forensic reporting
 
 ---
 
