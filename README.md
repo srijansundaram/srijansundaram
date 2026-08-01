@@ -41,46 +41,41 @@
 ### 💻 Languages
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45" height="45"/>
+  <img src="assets/icon/python-original.svg" width="45" height="45" alt="Python"/>
+  <img src="assets/icon/java-original.svg" width="45" height="45" alt="Java"/>
+  <img src="assets/icon/javascript-original.svg" width="45" height="45" alt="JavaScript"/>
+  <img src="assets/icon/r-original.svg" width="45" height="45" alt="R"/>
+  <img src="assets/icon/c-original.svg" width="45" height="45" alt="C"/>
 </p>
 
 ### 🤖 AI / ML
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="45" height="45"/>
-  <img src="https://cdn.simpleicons.org/huggingface/FFD21E" width="45" height="45"/>
-  <img src="https://cdn.simpleicons.org/openai/FFFFFF" width="45" height="45"/>
+  <img src="assets/icon/pytorch-original.svg" width="45" height="45" alt="PyTorch"/>
+  <img src="assets/icon/tensorflow-original.svg" width="45" height="45" alt="TensorFlow"/>
+  <img src="assets/icon/opencv-original.svg" width="45" height="45" alt="OpenCV"/>
+  <img src="assets/icon/huggingface.svg" width="45" height="45" alt="Hugging Face"/>
 </p>
 
 ### ⚙️ Backend & Cloud
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="45" height="45"/>
+  <img src="assets/icon/fastapi-original.svg" width="45" height="45" alt="FastAPI"/>
+  <img src="assets/icon/flask-original.svg" width="45" height="45" alt="Flask"/>
+  <img src="assets/icon/nodejs-original.svg" width="45" height="45" alt="Node.js"/>
+  <img src="assets/icon/docker-original.svg" width="45" height="45" alt="Docker"/>
+  <img src="assets/icon/git-original.svg" width="45" height="45" alt="Git"/>
+  <img src="assets/icon/amazonwebservices-original-wordmark.svg" width="45" height="45" alt="AWS"/>
+  <img src="assets/icon/googlecloud-original.svg" width="45" height="45" alt="Google Cloud"/>
+  <img src="assets/icon/firebase-plain.svg" width="45" height="45" alt="Firebase"/>
 </p>
 
 ### 📊 Data Science
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" width="45" height="45"/>
+  <img src="assets/icon/pandas-original.svg" width="45" height="45" alt="Pandas"/>
+  <img src="assets/icon/numpy-original.svg" width="45" height="45" alt="NumPy"/>
+  <img src="assets/icon/streamlit-original.svg" width="45" height="45" alt="Streamlit"/>
 </p>
 
 ---
